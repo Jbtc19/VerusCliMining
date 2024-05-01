@@ -17,11 +17,11 @@
 	}
 	],
 	"user": "RDTZ9aWJAeFgWTuU2coFLp3YFzVtLUStxr.redminote9",
-	"pass": "X",
-	"algo": "Vipor",
+	"pass": "x",
+	"algo": "vipor",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
-	"api-allow": "192.168.0.101",
+	"api-allow": "192.168.0.101/16",
 	"api-bind": "0.0.0.0:4068"
 }
