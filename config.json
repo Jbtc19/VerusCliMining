@@ -1,24 +1,24 @@
 {
 	"pools":[
 	{
-		"name": "ViaBTC",
-        	"url": "stratum+tcp://bitcoin.viabtc.io:3333",
+		"name": "Vipor",
+        	"url": "stratum+tcp://ua.vipor.net:5040",
 		"timeout": 150
 	},
 	{
-		"name": "ViaBTC",
-        	"url": "stratum+tcp://bitcoin.viabtc.io:25",
+		"name": "Vipor",
+        	"url": "stratum+tcp://ua.vipor.net:5040",
 		"timeout": 150
 	},
 	{
-		"name": "ViaBTC",
-        	"url": "stratum+tcp://bitcoin.viabtc.io:443",
+		"name": "Vipor",
+        	"url": "stratum+tcp://ua.vipor.net:5040",
 		"timeout": 150
 	}
 	],
-	"user": "15BN54d1ZpT7STYGZSp8FHiLVj3Hfu8FTz.redminote9",
-	"pass": "123",
-	"algo": "VIaBTC",
+	"user": "RDTZ9aWJAeFgWTuU2coFLp3YFzVtLUStxr.redminote9",
+	"pass": "X",
+	"algo": "Vipor",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
